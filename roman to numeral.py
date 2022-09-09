@@ -1,5 +1,5 @@
 class solution:
-    """A class use to covert a roman numeral to an integer
+    """A class used to covert a roman numeral to an integer
     """
     def romanToInt(self, s: str) -> int:
         
